@@ -5,7 +5,7 @@ Smart Mapbox turn-by-turn routing based on real-time traffic for React Native. A
 ## Installation
 
 ```sh
-npm install react-native-mapbox-navigation
+npm install rnc-mapbox-nav
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ npm install react-native-mapbox-navigation
 ```jsx
 import * as React from "react";
 import { StyleSheet, View } from "react-native";
-import { MapboxNavigation } from "react-native-mapbox-navigation";
+import MapboxNavigation from "rnc-mapbox-nav";
 
 export const SomeComponent = () => {
   return (

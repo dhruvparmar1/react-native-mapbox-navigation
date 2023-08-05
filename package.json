@@ -1,5 +1,5 @@
 {
-  "name": "rnc-mapbox-navigation",
+"name": "rnc-mapbox-nav",
 "version": "0.1.0",
 "description": "Smart Mapbox turn-by-turn routing based on real-time traffic for React Native.",
   "main": "lib/commonjs/index",
